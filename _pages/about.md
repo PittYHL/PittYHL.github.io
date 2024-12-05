@@ -14,9 +14,9 @@ sitemap: false
 Short Bio
 ===
 
-I am currenty a third-year Ph.D. student  in Department of Computer Science at University of Pittsburgh, advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my undergraduate degree from Hunan University and Colorado State University in 2019.
+I am currenty a third-year Ph.D. student in Department of Computer Science at University of Pittsburgh, advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my undergraduate degree from Hunan University and Colorado State University in 2019, and my Master's degree from Colorado State University in 2021.
 
-My research interests lie primarily in the area of **computer architecture**, with a focus on virtual memory for multi-GPU.
+My research interests lie primarily in the area of **Quantum computing**, with a focus on compilation framework and architecture for Quantum Computers.
 
 
 
