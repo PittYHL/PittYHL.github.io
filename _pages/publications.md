@@ -32,29 +32,27 @@ sitemap: false
 </style>
 
 
-* <span class="badge" style="font-family: 'Raleway', Arial;">[MICRO 2024]</span>  [STAR: Sub-Entry Sharing-Aware TLB for Multi-Instance GPU](../files/STAR_MICRO24.pdf) \
+
+* <span class="badge" style="font-family: 'Raleway', Arial;">[ASPLOS 2024]</span>  [FMCC: Flexible Measurement-based Quantum Computation over Cluster State.] \
 <!-- [Slides](../files/STAR_slides.pptx) \ -->
-Bingyao Li, <u><b>Yueqi Wang</b></u>, Tianyu Wang, Lieven Eeckhout, Jun Yang, Aamer Jaleel, and Xulong Tang 
+Bingyao Li, <u><b>Yueqi Wang</b></u>, Tianyu Wang, Lieven Eeckhout, Jun Yang, Aamer Jaleel, and Xulong Tang\
+Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
 
 
 
-
-* <span class="badge" style="font-family: 'Raleway',Arial; ">[HPCA 2024]</span> [GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement](../files/GRIT_HPCA24.pdf) \
-  [Slides](../files/GRIT_slides.pptx) \
-  <u><b>Yueqi Wang*</b></u>, Bingyao Li*, Aamer Jaleel, Jun Yang, and Xulong Tang \
-  The 30th IEEE International Symposium on High-Performance Computer Architecture \
-  <i>\*The authors contribute equally.</i>
-  
+* <span class="badge" style="font-family: 'Raleway',Arial; ">[ASPLOS 2024]</span> [QRCC: Evaluating Large Quantum Circuits on Small Quantum Computers through Integrated Qubit Reuse and Circuit Cutting.] \
+  Aditya Pawar, <u><b>Yingheng Li</b></u>, Zewei Mo, Yanan Guo, Xulong Tang, Youtao Zhang, and Jun Yang \
+  Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
   
 
 
-* <span class="badge" style="font-family: 'Raleway',Arial; ">[MICRO 2023]</span> [IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations](../files/MICRO2023_IDYLL.pdf) \
-  Bingyao Li, Yanan Guo, <u><b>Yueqi Wang</b></u>, Aamer Jaleel, Jun Yang, and Xulong Tang \
-  In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture 
+* <span class="badge" style="font-family: 'Raleway',Arial; ">[DAC 2024]</span> [FCM: Wire Cutting For Fusion Reduction in Measurement-based Quantum Computing.] \
+  Zewei Mo, <u><b>Yingheng Li</b></u>, Aditya Pawar, Xulong Tang, Jun Yang, and Youtao Zhang\ 
+  The 61th Design Automation Conference
   
 
-* <span class="badge" style="font-family: 'Raleway',Arial; ">[DAC 2023]</span> [Orchestrated Scheduling and Partitioning for Improved Address Translation in GPUs](../files/DAC2023.pdf) \
-  Bingyao Li, <u><b>Yueqi Wang</b></u>, and Xulong Tang\
+* <span class="badge" style="font-family: 'Raleway',Arial; ">[DAC 2023]</span> [Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors.] \
+  <u><b>Yingheng Li</b></u>, Aditya Pawar, Mohadeseh Azari, Yanan Guo, Youtao Zhang, Jun Yang, Kaushik Parasuram Seshadreesan, and Xulong Tang\
   The 60th Design Automation Conference
   
 
