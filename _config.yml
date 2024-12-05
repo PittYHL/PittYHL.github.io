@@ -185,9 +185,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  misc:
-    output: false
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
