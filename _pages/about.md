@@ -76,7 +76,7 @@ Publications
 <!-- <span class="badgeblackbg" style="font-family: 'Raleway', Arial; color: #7C8BE6;">[ASPLOS 2024]</span>  -->
 <span class="badgeblackbg" style="font-family: 'Raleway', Arial;">[ASPLOS 2024]</span> 
 [QRCC: Evaluating Large Quantum Circuits on Small Quantum Computers through Integrated Qubit Reuse and Circuit Cutting.] \
-Aditya Pawar, <u><b>Yingheng Li</b></u>, Zewei Mo, Yanan Guo, Xulong Tang, Youtao Zhang, and Jun Yang \
+Aditya Pawar, <u><b>Yingheng Li</b></u>, Zewei Mo, Yanan Guo, Xulong Tang, Youtao Zhang, and Jun Yang
 
 <span class="badgeblackbg" style="font-family: 'Raleway', Arial;">[DAC 2024]</span> 
 [FCM: Wire Cutting For Fusion Reduction in Measurement-based Quantum Computing.] \
