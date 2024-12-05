@@ -33,26 +33,26 @@ sitemap: false
 
 
 
-* <span class="badge" style="font-family: 'Raleway', Arial;">[ASPLOS 2024]</span>  [FMCC: Flexible Measurement-based Quantum Computation over Cluster State.] \
+* <span class="badge" style="font-family: 'Raleway', Arial;">[ASPLOS 2024]</span>  FMCC: Flexible Measurement-based Quantum Computation over Cluster State. \
 <!-- [Slides](../files/STAR_slides.pptx) \ -->
 <u><b>Yingheng Li</b></u>, Aditya Pawar, Zewei Mo, Youtao Zhang, Jun Yang, and Xulong Tang\
 Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
 
 
 
-* <span class="badge" style="font-family: 'Raleway',Arial; ">[ASPLOS 2024]</span> [QRCC: Evaluating Large Quantum Circuits on Small Quantum Computers through Integrated Qubit Reuse and Circuit Cutting.] \
+* <span class="badge" style="font-family: 'Raleway',Arial; ">[ASPLOS 2024]</span> QRCC: Evaluating Large Quantum Circuits on Small Quantum Computers through Integrated Qubit Reuse and Circuit Cutting. \
   Aditya Pawar, <u><b>Yingheng Li</b></u>, Zewei Mo, Yanan Guo, Xulong Tang, Youtao Zhang, and Jun Yang \
   Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
   
 
 
-* <span class="badge" style="font-family: 'Raleway',Arial; ">[DAC 2024]</span> [FCM: Wire Cutting For Fusion Reduction in Measurement-based Quantum Computing.] \
-  Zewei Mo, <u><b>Yingheng Li</b></u>, Aditya Pawar, Xulong Tang, Jun Yang, and Youtao Zhang\ 
+* <span class="badge" style="font-family: 'Raleway',Arial; ">[DAC 2024]</span> FCM: Wire Cutting For Fusion Reduction in Measurement-based Quantum Computing. \
+  Zewei Mo, <u><b>Yingheng Li</b></u>, Aditya Pawar, Xulong Tang, Jun Yang, and Youtao Zhang \ 
   The 61th Design Automation Conference
   
 
-* <span class="badge" style="font-family: 'Raleway',Arial; ">[DAC 2023]</span> [Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors.] \
-  <u><b>Yingheng Li</b></u>, Aditya Pawar, Mohadeseh Azari, Yanan Guo, Youtao Zhang, Jun Yang, Kaushik Parasuram Seshadreesan, and Xulong Tang\
+* <span class="badge" style="font-family: 'Raleway',Arial; ">[DAC 2023]</span> Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors. \
+  <u><b>Yingheng Li</b></u>, Aditya Pawar, Mohadeseh Azari, Yanan Guo, Youtao Zhang, Jun Yang, Kaushik Parasuram Seshadreesan, and Xulong Tang \
   The 60th Design Automation Conference
   
 
