@@ -6,7 +6,7 @@ author_profile: true
 sitemap: false
 ---
 
-My CV is also available to download [here](../files/WYQ_CV.pdf){:target="_blank"}.
+My CV is also available to download [here](../files/Yingheng_CV.pdf){:target="_blank"}.
 
 <object data="../files/WYQ_CV.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../files/WYQ_CV.pdf">
