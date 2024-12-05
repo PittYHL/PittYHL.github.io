@@ -35,7 +35,7 @@ sitemap: false
 
 * <span class="badge" style="font-family: 'Raleway', Arial;">[ASPLOS 2024]</span>  [FMCC: Flexible Measurement-based Quantum Computation over Cluster State.] \
 <!-- [Slides](../files/STAR_slides.pptx) \ -->
-Bingyao Li, <u><b>Yueqi Wang</b></u>, Tianyu Wang, Lieven Eeckhout, Jun Yang, Aamer Jaleel, and Xulong Tang\
+<u><b>Yingheng Li</b></u>, Aditya Pawar, Zewei Mo, Youtao Zhang, Jun Yang, and Xulong Tang\
 Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
 
 
