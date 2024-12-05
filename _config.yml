@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yueqi Wang"
+title                    : "Yingheng Li"
 title_separator          : "-"
-name                     : &name "Yueqi Wang"
+name                     : &name "Yingheng Li"
 description              : &description "personal description"
-url                      : https://wangw42.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pittyhl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wangw42/wangw42.github.io"
+repository               : "pittyhl/pittyhl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yueqi Wang 王玥琪"
+  name             : "Yingheng Li"
   avatar           : "yueqi.jpg"
   bio              : "Ph.D. Candidate in Computer Science"
   location         : "Pittsburgh, USA"
   employer         : "University of Pittsburgh"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=kQatfGAAAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=sLlJYrQAAAAJ&hl=en&oi=ao"
   # zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
-  email            : "yueqi.wang@pitt.edu"
+  email            : "yil392@pitt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
