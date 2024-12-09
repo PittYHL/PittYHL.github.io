@@ -48,7 +48,7 @@ Proceedings of the 29th ACM International Conference on Architectural Support fo
 
 * <span class="badge" style="font-family: 'Raleway',Arial; ">[DAC 2024]</span> FCM: Wire Cutting For Fusion Reduction in Measurement-based Quantum Computing. \
   Zewei Mo, <u><b>Yingheng Li</b></u>, Aditya Pawar, Xulong Tang, Jun Yang, and Youtao Zhang \
-  The 60th Design Automation Conference
+  The 61th Design Automation Conference
   
 
 * <span class="badge" style="font-family: 'Raleway',Arial; ">[DAC 2023]</span> Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors. \
