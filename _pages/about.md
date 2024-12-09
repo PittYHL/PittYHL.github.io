@@ -18,6 +18,8 @@ I am currenty a third-year Ph.D. student in Department of Computer Science at Un
 
 My research interests lie primarily in the area of **Quantum computing**, with a focus on compilation framework and architecture for Quantum Computers.
 
+I'm currently looking for a 2025 summer internship.
+
 
 
 News
