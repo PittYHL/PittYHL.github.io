@@ -24,7 +24,7 @@ Honors and Awards
 ===
 
 * Spring 2023, Spring 2024, Fall 2024, Pittsburgh Quantum Institute (PQI) Fellowship. 
-* Fall 2022, Computer Science Department Fellowship. 
+* Fall 2022, Computer Science Department Fellowship, University of Pittsburgh. 
 * 2016-2019, Global Partnership Award scholarship, Colorado State University.
 
 
