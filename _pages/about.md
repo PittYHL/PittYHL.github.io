@@ -16,15 +16,16 @@ Short Bio
 
 I am currenty a third-year Ph.D. student in Department of Computer Science at University of Pittsburgh, advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my undergraduate degree from Hunan University and Colorado State University in 2019, and my Master's degree from Colorado State University in 2021.
 
-My research interests lie primarily in the area of **Quantum computing**, with a focus on compilation framework and architecture for Quantum Computers.
+My research interests lie primarily in the area of **Quantum computing**, with a focus on compilation frameworks and architecture for Quantum Computers.
 
-I'm currently looking for a 2025 summer internship.
+I'm currently interning at Argonne National Laboratory, working on compilation frameworks for fault-tolerant quantum computers.
 
 
 
 News
 ===
-* 05/2024: Two papers are accepted by ASPLOS 2024 (will be presented in ASPLOS 2025). Thanks to all collaborators!
+* 03/2025: One paper is accepted by ISCA 2025. Thanks to all collaborators!
+* 05/2024: Two papers are accepted by ASPLOS 2024 (presented in ASPLOS 2025). Thanks to all collaborators!
 * 02/2024: One paper is accepted by DAC 2024. Thanks to all collaborators!
 * 02/2023: One paper is accepted by DAC 2023. Thanks to all collaborators!
 
@@ -66,6 +67,11 @@ Publications
         font-family: 'Raleway', Arial; /* Font family */
     }
 </style>
+
+<span class="badgeblackbg" style="font-family: 'Raleway', Arial;">[ISCA 2025]</span> 
+[Reinforcement Learning-Guided Graph State Generation in Photonic Quantum Computers.] \
+<!-- [Slides](../files/STAR_slides.pptx) \ -->
+<u><b>Yingheng Li</b></u>, Yue Dai, Aditya Pawar, Rongchao Dong, Jun Yang, Youtao Zhang, and Xulong Tang
 
 
 <span class="badgeblackbg" style="font-family: 'Raleway', Arial;">[ASPLOS 2024]</span> 
