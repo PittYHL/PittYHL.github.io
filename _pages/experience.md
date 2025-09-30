@@ -30,8 +30,8 @@ Honors and Awards
 
 Internship
 ===
-Student Research at Argonne National Lab, May 2025 – Present.
-Algorithms Engineer at GRG Banking, June 2019 – Aug. 2019.
+* Researcher at Argonne National Lab, May 2025 – Present.
+* Algorithms Engineer at GRG Banking, June 2019 – Aug. 2019.
 
 
 Teaching
